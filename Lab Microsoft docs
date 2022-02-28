@@ -1,0 +1,46 @@
+Microsoft Sentinel
+Github repo: https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst/tree/master/Instructions/Labs
+
+Data collection
+AWS connector: https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=s3
+Azure AD: https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory
+Microsoft Defender for Cloud: https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud
+Microsoft365 Defender: https://docs.microsoft.com/en-us/azure/sentinel/connect-microsoft-365-defender?tabs=MDE
+All Connectors guide: https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference
+Logstash: https://docs.microsoft.com/en-us/azure/sentinel/connect-logstash
+Custom connectors: https://docs.microsoft.com/en-us/azure/sentinel/create-custom-connector
+CEF/Syslog forwarder: https://docs.microsoft.com/en-us/azure/sentinel/connect-log-forwarder?tabs=rsyslog
+Codeless connector: https://docs.microsoft.com/en-us/azure/sentinel/create-codeless-connector?tabs=deploy-via-arm-template%2Cconnect-via-the-azure-portal
+Data connector health: https://docs.microsoft.com/en-us/azure/sentinel/monitor-data-connector-health
+
+Analytic rules
+Scheduled query rule: https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-custom
+NRT rules: https://docs.microsoft.com/en-us/azure/sentinel/create-nrt-rules
+Anomaly detection rules: https://docs.microsoft.com/en-us/azure/sentinel/work-with-anomaly-rules
+Fusion rules: https://docs.microsoft.com/en-us/azure/sentinel/configure-fusion-rules
+Incident creation rules: https://docs.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts
+
+Watchlist
+https://docs.microsoft.com/en-us/azure/sentinel/watchlists-create
+https://docs.microsoft.com/en-us/azure/sentinel/watchlists-queries
+https://docs.microsoft.com/en-us/azure/sentinel/watchlists-manage
+
+Sentinel Content
+Out of the box: https://docs.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy
+Custom from repository: https://docs.microsoft.com/en-us/azure/sentinel/ci-cd?tabs=github
+
+Visualize collected data
+Workbooks: https://docs.microsoft.com/en-us/azure/sentinel/get-visibility
+Power BI integration: https://docs.microsoft.com/en-us/azure/sentinel/powerbi
+
+Enable UEBA: https://docs.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics
+
+ASIM normalization: https://docs.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers
+
+Hunting
+Jupyter notebooks: https://docs.microsoft.com/en-us/azure/sentinel/notebooks?tabs=public-endpoint
+MSTICPy: https://docs.microsoft.com/en-us/azure/sentinel/notebooks-msticpy-advanced?tabs=windows
+Bookmarks: https://docs.microsoft.com/en-us/azure/sentinel/bookmarks
+Livestrean: https://docs.microsoft.com/en-us/azure/sentinel/livestream
+
+Investigate and Respond
